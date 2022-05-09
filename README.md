@@ -2,13 +2,9 @@
 
 
 ## editando perfil
--   👋 Olá, meu nome é @Andrezin06
-- 👀 Eu estou interessado em
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Andrezin06/Andrezin06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, meu nome é @Andrezin06
+- 🗓 Tenho 15 anos.
+- 👎 Não gosto do @Brunomaisdivertido.
+- 🎮 Gosto de jogar Fortnite e GTA V.
+- 🤖 Gosto de progamar Bot's de discord.
+- 🖥 Procuro me aprimorar mais na area de programador.
